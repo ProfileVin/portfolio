@@ -63,7 +63,7 @@ export const freelance = [
   {
     name: 'Hoyfia Partners — ERP & Recruiting Platform',
     role: 'Full Stack Developer',
-    period: 'May 2026 – Present',
+    period: 'Feb 2026 – Aug 2026',
     icon: 'Building2',
     description:
       'A business management platform combining a public marketing/hiring site with an internal ERP dashboard — covering jobs, opportunities, quotes, sales orders, invoices, employees, and documents for a growing partnership firm. Built the client-facing application on Supabase, including auth, data access, and 100+ schema migrations, alongside a component-driven admin UI with drag-and-drop pipelines, exportable reports, and in-app click-to-call.',
@@ -79,7 +79,7 @@ export const freelance = [
   {
     name: 'Achiezer Donor Portal & QuickBooks Sync',
     role: 'Full Stack Developer',
-    period: 'May 2026 – Present',
+    period: 'Feb 2026 – Aug 2026',
     icon: 'Mail',
     description:
       'A donor and transaction management system for a nonprofit, pairing a public/admin ledger portal with a backend that keeps donation records in sync with QuickBooks Online on a recurring schedule. Delivered an Angular admin portal for reviewing transactions and sending automated donor emails, backed by a .NET API and Azure Function that pulls QBO data into SQL Server and dispatches notifications through Gmail.',
@@ -95,7 +95,7 @@ export const freelance = [
   {
     name: 'TeleTeams Call Broadcast & IVR Platform',
     role: '.NET Backend Developer',
-    period: 'May 2026 – Present',
+    period: 'Feb 2026 – Aug 2026',
     icon: 'PhoneCall',
     description:
       'A Telnyx-powered call broadcast and IVR system for scheduled outbound calling, built for a community calling service with observance-aware scheduling. The API answers and routes inbound calls through a configurable IVR menu, while a companion Azure Function generates and schedules outbound call batches, respecting calling-time preferences and do-not-call lists.',
@@ -111,7 +111,7 @@ export const freelance = [
   {
     name: 'QBO Transaction Sync & Donor Ledger API',
     role: 'Backend Developer',
-    period: 'May 2026 – Present',
+    period: 'Feb 2026 – Aug 2026',
     icon: 'RefreshCw',
     description:
       "The backend platform behind the Achiezer donor portal: a public-facing Portal API and a QuickBooks sync engine that keeps the organization's ledger current. The Portal API serves the public app and admin frontend with JWT-secured endpoints, while a companion Azure Function syncs transactions from QuickBooks Online on a schedule and triggers automated donor emails.",
@@ -127,7 +127,7 @@ export const freelance = [
   {
     name: 'Wedding Orchestrator — Desktop Planning App',
     role: 'Full Stack Developer',
-    period: 'May 2026 – Present',
+    period: 'Feb 2026 – Aug 2026',
     icon: 'Heart',
     description:
       'A cross-platform desktop application for wedding planners to manage guest lists, family trees, song selections, and printable exports — packaged as a self-contained Windows installer with the API bundled inside the app. Built a modern React front end wrapped in Electron with a bundled ASP.NET Core API, giving planners an offline-capable, installable tool instead of a hosted web app.',
@@ -146,7 +146,7 @@ export const experience = [
   {
     company: 'WeSupport Inc.',
     role: '.Net Developer (Metrobank)',
-    period: 'Feb 2024 – Present',
+    period: 'Feb 2024 – Feb 2026',
     summary:
       'Developing and enhancing internal and external API services for Metrobank, building secure, scalable RESTful APIs using .NET Core for banking transactions, account management, and third-party integrations.',
     highlights: [
@@ -167,7 +167,7 @@ export const experience = [
       'Designed and developed new REST APIs using .NET Core with Entity Framework across .NET 6 and .NET 8.',
       'Created and enhanced UI components using AngularJS, JavaScript, Bootstrap, and classic ASP.',
       'Configured Azure DevOps environments and automated build, test, and deployment pipelines.',
-      'Managed source code in Azure Git, coordinated CI/CD workflows, and used TFS for task tracking.',
+      'Managed source code in Azure Git, coordinated CI/CD workflows, and used Jira for task tracking.',
     ],
     tools: ['.NET 6/8', 'Entity Framework', 'AngularJS', 'Azure DevOps', 'Azure Git', 'TFS', 'Jira', 'Confluence'],
   },
