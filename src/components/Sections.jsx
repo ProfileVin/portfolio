@@ -223,7 +223,7 @@ export function Certifications() {
             rel="noreferrer"
             variants={staggerItem}
             whileHover={{ y: -3 }}
-            className="flex flex-col rounded-2xl border border-slate-200 p-6 transition-shadow hover:shadow-md dark:border-slate-800"
+            className="flex flex-col rounded-2xl border border-slate-200 bg-white p-6 backdrop-blur-md transition-shadow hover:shadow-md dark:border-slate-800 dark:bg-slate-900/70"
           >
             <div className="flex items-start justify-between gap-3">
               <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-indigo-50 text-indigo-600 dark:bg-indigo-500/10 dark:text-indigo-400">
@@ -318,7 +318,7 @@ export function Contact() {
                 rel={external ? 'noreferrer' : undefined}
                 variants={staggerItem}
                 whileHover={href ? { y: -2 } : undefined}
-                className="flex flex-col gap-3 rounded-2xl border border-slate-200 bg-white p-5 transition-colors hover:border-slate-300 dark:border-slate-800 dark:bg-slate-900/60 dark:hover:border-slate-700"
+                className="flex flex-col gap-3 rounded-2xl border border-slate-200 bg-white/60 p-5 backdrop-blur-md transition-colors hover:border-slate-300 dark:border-slate-800 dark:bg-slate-900/40 dark:hover:border-slate-700"
               >
                 <span className="flex h-10 w-10 items-center justify-center rounded-lg bg-indigo-50 text-indigo-600 dark:bg-indigo-500/15 dark:text-indigo-400">
                   <Icon className="h-5 w-5" />

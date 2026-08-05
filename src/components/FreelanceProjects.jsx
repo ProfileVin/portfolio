@@ -159,7 +159,7 @@ export default function FreelanceProjects() {
               key={project.name}
               variants={staggerItem}
               whileHover={{ y: -4 }}
-              className="flex flex-col rounded-2xl border border-slate-200 bg-white p-5 shadow-sm transition-shadow hover:shadow-md dark:border-slate-800 dark:bg-slate-950"
+              className="flex flex-col rounded-2xl border border-slate-200 bg-white p-5 shadow-sm backdrop-blur-md transition-shadow hover:shadow-md dark:border-slate-800 dark:bg-slate-950/70"
             >
               <BrowserMockup
                 project={project}
