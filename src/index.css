@@ -3,7 +3,48 @@
 @custom-variant dark (&:where(.dark, .dark *));
 
 @theme {
-  --font-display: "Fraunces", ui-serif, Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+}
+
+@theme inline {
+  --color-page: var(--page);
+  --color-surface: var(--surface);
+  --color-line: var(--line);
+  --color-ink: var(--ink);
+  --color-accent: var(--accent);
+  --color-accent-fg: var(--accent-fg);
+  --color-accent-soft: var(--accent-soft);
+}
+
+/* Palette pairs: --pal-dark drives light-mode accents, --pal-light drives dark-mode accents. */
+:root,
+[data-palette="teal"] { --pal-dark: #152d35; --pal-light: #d4ecdd; }
+[data-palette="black"] { --pal-dark: #050505; --pal-light: #d7ffe0; }
+[data-palette="blue"] { --pal-dark: #2457ff; --pal-light: #dff7ff; }
+[data-palette="fir"] { --pal-dark: #163300; --pal-light: #9fe870; }
+[data-palette="iris"] { --pal-dark: #3a0ca3; --pal-light: #fff275; }
+[data-palette="graphite"] { --pal-dark: #1f2329; --pal-light: #b6ff2e; }
+[data-palette="navy"] { --pal-dark: #071a52; --pal-light: #a7ff83; }
+
+:root {
+  --page: color-mix(in oklab, var(--pal-light) 30%, white);
+  --surface: color-mix(in oklab, var(--pal-light) 8%, white);
+  --line: color-mix(in oklab, var(--pal-dark) 12%, transparent);
+  --ink: color-mix(in oklab, var(--pal-dark) 45%, #0b0f19);
+  --accent: var(--pal-dark);
+  --accent-fg: var(--pal-light);
+  --accent-soft: color-mix(in oklab, var(--pal-dark) 10%, transparent);
+}
+
+.dark {
+  --page: color-mix(in oklab, var(--pal-dark) 25%, #07090c);
+  --surface: color-mix(in oklab, var(--pal-dark) 35%, #0e1116);
+  --line: color-mix(in oklab, var(--pal-light) 12%, transparent);
+  --ink: color-mix(in oklab, var(--pal-light) 20%, white);
+  --accent: var(--pal-light);
+  --accent-fg: var(--pal-dark);
+  --accent-soft: color-mix(in oklab, var(--pal-light) 14%, transparent);
 }
 
 html {
@@ -11,7 +52,7 @@ html {
 }
 
 body {
-  @apply bg-white text-slate-700 antialiased transition-colors dark:bg-slate-950 dark:text-slate-300;
+  @apply bg-page text-slate-700 antialiased transition-colors dark:text-slate-300;
 }
 
 @supports (view-transition-name: root) {

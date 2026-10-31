@@ -74,7 +74,7 @@ export default function ThemeToggle() {
         whileTap={{ scale: 0.92 }}
         onClick={toggleFromEvent}
         aria-label="Toggle theme"
-        className="relative flex h-9 w-9 items-center justify-center overflow-hidden rounded-full border border-slate-200 text-slate-600 transition-colors hover:border-slate-400 dark:border-slate-700 dark:text-slate-300 dark:hover:border-slate-500"
+        className="relative flex h-9 w-9 items-center justify-center overflow-hidden rounded-full border border-line bg-surface text-ink transition-colors hover:border-accent"
         style={{ boxShadow: useTransform(bulbGlow, (v) => `0 0 ${v * 14}px ${v * 3}px rgba(250, 204, 21, ${v * 0.45})`) }}
       >
         {theme === 'dark' ? <Sun className="h-4 w-4" /> : <Moon className="h-4 w-4" />}
@@ -97,7 +97,7 @@ export default function ThemeToggle() {
           onDragEnd={handleDragEnd}
           whileHover={{ scale: 1.15 }}
           whileTap={{ scale: 1.25 }}
-          className="-mt-0.5 h-2.5 w-2.5 cursor-grab touch-none rounded-full bg-slate-400 shadow-sm outline-none focus-visible:ring-2 focus-visible:ring-indigo-400 active:cursor-grabbing dark:bg-slate-500"
+          className="-mt-0.5 h-2.5 w-2.5 cursor-grab touch-none rounded-full bg-slate-400 shadow-sm outline-none focus-visible:ring-2 focus-visible:ring-accent active:cursor-grabbing dark:bg-slate-500"
         />
       </div>
     </div>
