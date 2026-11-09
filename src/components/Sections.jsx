@@ -27,7 +27,51 @@ const heroStats = [
   { value: '3', label: 'Industries' },
 ]
 
-const dailyDrivers = ['C# / .NET', 'React', 'SQL Server', 'Azure', 'Electron', 'Claude Code', 'Postman', 'Git']
+// icon = file in public/icons/tools; mono = black logo, inverted in dark mode
+const dailyDrivers = [
+  { name: 'C# / .NET', icon: 'csharp.svg' },
+  { name: 'React', icon: 'react.svg' },
+  { name: 'SQL Server', icon: 'sqlserver.svg' },
+  { name: 'Azure', icon: 'azure.svg' },
+  { name: 'Cloudflare', icon: 'cloudflare.svg' },
+  { name: 'Electron', icon: 'electron.svg', mono: true },
+  { name: 'Claude Code', icon: 'claude.svg' },
+  { name: 'Postman', icon: 'postman.svg' },
+  { name: 'Git', icon: 'git.svg' },
+  { name: 'Visual Studio', icon: 'visualstudio.svg' },
+  { name: 'VS Code', icon: 'vscode.svg' },
+  { name: 'Playwright', icon: 'playwright.svg' },
+  { name: 'NUnit', icon: 'nunit.png' },
+  { name: 'Swagger', icon: 'swagger.svg' },
+  { name: 'Slack', icon: 'slack.svg' },
+  { name: 'ClickUp', icon: 'clickup.svg' },
+  { name: 'Tailwind CSS', icon: 'tailwind.svg' },
+  { name: 'HTML', icon: 'html.svg' },
+  { name: 'Vite', icon: 'vite.svg' },
+  { name: 'JavaScript', icon: 'javascript.svg' },
+  { name: 'TypeScript', icon: 'typescript.svg' },
+  { name: 'Node.js', icon: 'nodejs.svg' },
+  { name: 'GitHub', icon: 'github.svg', mono: true },
+  { name: 'GitLab', icon: 'gitlab.svg' },
+  { name: 'SharePoint', icon: 'sharepoint.svg' },
+  { name: 'Confluence', icon: 'confluence.svg' },
+  { name: 'Jira', icon: 'jira.svg' },
+  { name: 'ngrok', icon: 'ngrok.svg', mono: true },
+  { name: 'SignalWire', icon: 'signalwire.png' },
+  { name: 'TanStack Query', icon: 'tanstack.svg' },
+  { name: 'PrimeReact', icon: 'primereact.svg' },
+  { name: 'Gmail API', icon: 'gmail.svg' },
+  { name: 'IVR', icon: 'ivr.svg' },
+  { name: 'QuickBooks API', icon: 'quickbooks.svg' },
+  { name: 'VB6', icon: 'vb6.svg' },
+  { name: 'Crystal Reports', icon: 'crystalreports.svg' },
+]
+
+const chipList = { hidden: {}, show: { transition: { staggerChildren: 0.03, delayChildren: 0.2 } } }
+const chipPop = {
+  hidden: { opacity: 0, y: 8, scale: 0.9 },
+  show: { opacity: 1, y: 0, scale: 1, transition: { duration: 0.35, ease: [0.22, 1, 0.36, 1] } },
+}
 
 export const sectionClass = 'scroll-mt-20 rounded-3xl border border-line bg-surface p-6 shadow-sm md:p-10 lg:scroll-mt-6'
 
@@ -116,16 +160,19 @@ export function Hero() {
             <p className="text-[11px] font-bold uppercase tracking-widest text-accent">Daily drivers</p>
             <p className="font-extrabold text-ink">Tools I work with</p>
           </div>
-          <ul className="flex flex-wrap gap-2">
-            {dailyDrivers.map((tool) => (
-              <li
-                key={tool}
-                className="rounded-full border border-line bg-page px-3.5 py-1.5 text-xs font-semibold text-ink"
+          <motion.ul variants={chipList} className="flex flex-wrap gap-2">
+            {dailyDrivers.map(({ name, icon, mono }) => (
+              <motion.li
+                key={name}
+                variants={chipPop}
+                whileHover={{ y: -2 }}
+                className="flex items-center gap-1.5 rounded-full border border-line bg-page px-3.5 py-1.5 text-xs font-semibold text-ink"
               >
-                {tool}
-              </li>
+                <img src={`/icons/tools/${icon}`} alt="" className={`h-4 w-4 object-contain ${mono ? 'dark:invert' : ''}`} />
+                {name}
+              </motion.li>
             ))}
-          </ul>
+          </motion.ul>
         </motion.div>
       </motion.div>
 

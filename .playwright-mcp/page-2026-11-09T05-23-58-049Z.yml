@@ -1,0 +1,715 @@
+- generic [ref=f5e3]:
+  - complementary [ref=f5e4]:
+    - generic [ref=f5e5]:
+      - img "Alvin Baclagan" [ref=f5e6]
+      - paragraph [ref=f5e7]: Alvin Baclagan
+      - paragraph [ref=f5e8]: "@alvinbaclagan"
+      - generic [ref=f5e9]:
+        - link "LinkedIn" [ref=f5e10] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/alvinbaclagan/
+        - link "Email" [ref=f5e14] [cursor=pointer]:
+          - /url: mailto:alvinvbaclagan@gmail.com
+        - link "Phone" [ref=f5e18] [cursor=pointer]:
+          - /url: tel:+639165508506
+        - generic [ref=f5e21]:
+          - button "Toggle theme" [ref=f5e22]
+          - button "Pull to toggle theme" [ref=f5e27]
+        - button "Choose color palette" [ref=f5e29]
+    - navigation [ref=f5e36]:
+      - list [ref=f5e37]:
+        - listitem [ref=f5e38]:
+          - link "Home" [ref=f5e39] [cursor=pointer]:
+            - /url: "#about"
+        - listitem [ref=f5e43]:
+          - link "Projects" [ref=f5e44] [cursor=pointer]:
+            - /url: "#freelance"
+        - listitem [ref=f5e47]:
+          - link "Experience" [ref=f5e48] [cursor=pointer]:
+            - /url: "#experience"
+        - listitem [ref=f5e52]:
+          - link "Skills" [ref=f5e53] [cursor=pointer]:
+            - /url: "#skills"
+        - listitem [ref=f5e58]:
+          - link "Credentials" [ref=f5e59] [cursor=pointer]:
+            - /url: "#certifications"
+        - listitem [ref=f5e63]:
+          - link "Education" [ref=f5e64] [cursor=pointer]:
+            - /url: "#education"
+        - listitem [ref=f5e68]:
+          - link "Contact" [ref=f5e69] [cursor=pointer]:
+            - /url: "#contact"
+    - generic [ref=f5e72]:
+      - link "Download CV" [ref=f5e73] [cursor=pointer]:
+        - /url: /assets/Resume%20-%20Alvin%20Baclagan-C59SJCc2.pdf
+      - paragraph [ref=f5e77]: © 2026 Alvin Baclagan
+  - main [ref=f5e79]:
+    - generic [ref=f5e80]:
+      - generic [ref=f5e81]:
+        - generic [ref=f5e82]:
+          - heading "Your idea, shipped right." [level=1] [ref=f5e83]
+          - link "Get in touch" [ref=f5e84] [cursor=pointer]:
+            - /url: "#contact"
+        - paragraph [ref=f5e88]: I help businesses turn ideas into reliable web apps, APIs and desktop tools. 10+ years building software for banking, media and e-commerce, so your project is in experienced hands from first call to launch.
+        - generic [ref=f5e89]:
+          - generic [ref=f5e90]:
+            - paragraph [ref=f5e91]: Daily drivers
+            - paragraph [ref=f5e92]: Tools I work with
+          - list [ref=f5e93]:
+            - listitem [ref=f5e94]: C# / .NET
+            - listitem [ref=f5e95]: React
+            - listitem [ref=f5e96]: SQL Server
+            - listitem [ref=f5e97]: Azure
+            - listitem [ref=f5e98]: Cloudflare
+            - listitem [ref=f5e99]: Electron
+            - listitem [ref=f5e100]: Claude Code
+            - listitem [ref=f5e101]: Postman
+            - listitem [ref=f5e102]: Git
+            - listitem [ref=f5e103]: Visual Studio
+            - listitem [ref=f5e104]: VS Code
+            - listitem [ref=f5e105]: Playwright
+            - listitem [ref=f5e106]: NUnit
+            - listitem [ref=f5e107]: Swagger
+            - listitem [ref=f5e108]: Slack
+            - listitem [ref=f5e109]: ClickUp
+            - listitem [ref=f5e110]: Tailwind CSS
+            - listitem [ref=f5e111]: HTML
+            - listitem [ref=f5e112]: Vite
+            - listitem [ref=f5e113]: JavaScript
+            - listitem [ref=f5e114]: TypeScript
+            - listitem [ref=f5e115]: Node.js
+            - listitem [ref=f5e116]: GitHub
+            - listitem [ref=f5e117]: GitLab
+            - listitem [ref=f5e118]: SharePoint
+            - listitem [ref=f5e119]: Confluence
+            - listitem [ref=f5e120]: Jira
+            - listitem [ref=f5e121]: ngrok
+            - listitem [ref=f5e122]: SignalWire
+            - listitem [ref=f5e123]: TanStack Query
+            - listitem [ref=f5e124]: PrimeReact
+            - listitem [ref=f5e125]: Gmail API
+            - listitem [ref=f5e126]: IVR
+            - listitem [ref=f5e127]: QuickBooks API
+            - listitem [ref=f5e128]: VB6
+            - listitem [ref=f5e129]: Crystal Reports
+      - generic [ref=f5e130]:
+        - link [ref=f5e131] [cursor=pointer]:
+          - /url: "#freelance"
+          - generic [ref=f5e132]:
+            - heading "Projects" [level=3] [ref=f5e137]
+            - paragraph [ref=f5e141]: Web apps, desktop tools and integrations built for real clients.
+          - img "Project dashboard" [ref=f5e149]
+        - link [ref=f5e150] [cursor=pointer]:
+          - /url: "#about"
+          - generic [ref=f5e151]:
+            - heading "About" [level=3] [ref=f5e157]
+            - paragraph [ref=f5e161]: Who I am and how I work.
+            - generic [ref=f5e163]:
+              - generic [ref=f5e164]:
+                - term [ref=f5e165]: 10+
+                - definition [ref=f5e166]: Years in software
+              - generic [ref=f5e167]:
+                - term [ref=f5e168]: "6"
+                - definition [ref=f5e169]: Companies
+              - generic [ref=f5e170]:
+                - term [ref=f5e171]: "3"
+                - definition [ref=f5e172]: Industries
+        - link [ref=f5e173] [cursor=pointer]:
+          - /url: "#experience"
+          - generic [ref=f5e174]:
+            - heading "Experience" [level=3] [ref=f5e180]
+            - paragraph [ref=f5e184]: Banking, media and e-commerce.
+            - generic [ref=f5e186]:
+              - paragraph [ref=f5e187]: Latest
+              - paragraph [ref=f5e188]: .Net Developer (Metrobank)
+              - paragraph [ref=f5e189]: WeSupport Inc. · Feb 2024 – Feb 2026
+        - link [ref=f5e190] [cursor=pointer]:
+          - /url: "#certifications"
+          - generic [ref=f5e191]:
+            - heading "Credentials" [level=3] [ref=f5e197]
+            - paragraph [ref=f5e201]: Continuous learning, certified.
+            - list [ref=f5e203]:
+              - listitem [ref=f5e204]:
+                - paragraph [ref=f5e205]: RESTful Web API - The Complete Guide (.NET 7 API) Part 1
+                - paragraph [ref=f5e206]: Udemy
+              - listitem [ref=f5e207]:
+                - paragraph [ref=f5e208]: Learn JavaScript
+                - paragraph [ref=f5e209]: Scrimba
+        - link "Skills What I build with. Languages & Frameworks 01 Frontend 02 Database & Reporting 03 APIs 04 DevOps & Tools 05" [ref=f5e210] [cursor=pointer]:
+          - /url: "#skills"
+          - generic [ref=f5e211]:
+            - heading "Skills" [level=3] [ref=f5e218]
+            - paragraph [ref=f5e222]: What I build with.
+            - list [ref=f5e224]:
+              - listitem [ref=f5e225]:
+                - text: Languages & Frameworks
+                - generic [ref=f5e226]: "01"
+              - listitem [ref=f5e227]:
+                - text: Frontend
+                - generic [ref=f5e228]: "02"
+              - listitem [ref=f5e229]:
+                - text: Database & Reporting
+                - generic [ref=f5e230]: "03"
+              - listitem [ref=f5e231]:
+                - text: APIs
+                - generic [ref=f5e232]: "04"
+              - listitem [ref=f5e233]:
+                - text: DevOps & Tools
+                - generic [ref=f5e234]: "05"
+        - link "Contact Open to full-time roles, contracts and freelance work. alvinvbaclagan@gmail.com (+63) 916 5508 506 Quezon City, Philippines" [ref=f5e235] [cursor=pointer]:
+          - /url: "#contact"
+          - generic [ref=f5e236]:
+            - heading "Contact" [level=3] [ref=f5e241]
+            - paragraph [ref=f5e245]: Open to full-time roles, contracts and freelance work.
+            - generic [ref=f5e247]:
+              - generic [ref=f5e248]: alvinvbaclagan@gmail.com
+              - generic [ref=f5e253]: (+63) 916 5508 506
+              - generic [ref=f5e257]: Quezon City, Philippines
+    - generic [ref=f5e262]:
+      - heading "Freelance Projects" [level=2] [ref=f5e263]
+      - paragraph [ref=f5e264]: Freelance · Mar 2026 – Present
+      - paragraph [ref=f5e265]: Alongside full-time work, I design and build software for independent clients — from web portals and desktop tools to voice and messaging integrations — owning everything from architecture and data modeling to UI and deployment.
+      - generic [ref=f5e266]:
+        - article [ref=f5e267]:
+          - generic [ref=f5e268]:
+            - generic [ref=f5e269]: construction-pm.app
+            - button "Open Construction Project Management Platform gallery" [ref=f5e274]:
+              - img "Project dashboard" [ref=f5e275]
+              - generic [ref=f5e276]: 6 screenshots
+          - generic [ref=f5e282]:
+            - generic [ref=f5e283]: Web app
+            - generic [ref=f5e284]: Sep 2026 – Oct 2026
+          - heading "Construction Project Management Platform" [level=3] [ref=f5e285]
+          - paragraph [ref=f5e286]: Full Stack Developer
+          - paragraph [ref=f5e287]: A full stack dashboard for construction project managers covering projects, tasks and site activity logs, phase-and-milestone scheduling, budgets, documents and team management, with a guided onboarding wizard for new companies.
+          - list [ref=f5e288]:
+            - listitem [ref=f5e289]:
+              - generic [ref=f5e291]: Built a budget module with numbered purchase orders, change orders and payments, approve/reject and mark-paid workflows, and committed/disbursed/contract-value roll-ups.
+            - listitem [ref=f5e292]:
+              - generic [ref=f5e294]: Structured the .NET 10 API with Clean Architecture (Domain, Application, Infrastructure, API), Identity + JWT, FluentValidation, Serilog and a Scalar API reference.
+            - listitem [ref=f5e295]:
+              - generic [ref=f5e297]: "Ran an AI-first workflow with Claude Code: feature specs, a bug log and architecture decision records fed into every session."
+          - generic [ref=f5e298]:
+            - text: Frontend
+            - generic [ref=f5e299]:
+              - generic [ref=f5e300]: React 19
+              - generic [ref=f5e301]: TypeScript
+              - generic [ref=f5e302]: Vite
+              - generic [ref=f5e303]: Tailwind CSS
+              - generic [ref=f5e304]: PrimeReact
+              - generic [ref=f5e305]: TanStack Query
+              - generic [ref=f5e306]: Zustand
+              - generic [ref=f5e307]: React Hook Form
+              - generic [ref=f5e308]: Zod
+          - generic [ref=f5e309]:
+            - text: Backend
+            - generic [ref=f5e310]:
+              - generic [ref=f5e311]: .NET 10 Web API
+              - generic [ref=f5e312]: Entity Framework Core
+              - generic [ref=f5e313]: SQL Server
+              - generic [ref=f5e314]: ASP.NET Identity
+              - generic [ref=f5e315]: JWT
+          - generic [ref=f5e316]:
+            - text: Other
+            - generic [ref=f5e317]:
+              - generic [ref=f5e318]: FluentValidation
+              - generic [ref=f5e319]: Serilog
+              - generic [ref=f5e320]: Scalar / OpenAPI
+              - generic [ref=f5e321]: Playwright
+        - article [ref=f5e322]:
+          - generic [ref=f5e323]:
+            - generic [ref=f5e324]: check-scanner.app
+            - button "Open AI Check-Deposit Scanner gallery" [ref=f5e329]:
+              - img "Batch scan review" [ref=f5e330]
+              - generic [ref=f5e331]: 4 screenshots
+          - generic [ref=f5e337]:
+            - generic [ref=f5e338]: Desktop app
+            - generic [ref=f5e339]: Aug 2026 – Sep 2026
+          - heading "AI Check-Deposit Scanner" [level=3] [ref=f5e340]
+          - paragraph [ref=f5e341]: Full Stack Developer
+          - paragraph [ref=f5e342]: A Windows desktop app that batch-scans donation checks from a TWAIN scanner, uses Claude vision to extract the check details (including the bank from its logo), and files each check under a fundraiser with reporting, backed by SQL Server and Azure Blob Storage.
+          - list [ref=f5e343]:
+            - listitem [ref=f5e344]:
+              - generic [ref=f5e346]: Integrated TWAIN batch scanning via NTwain in a dedicated 32-bit process to work around scanner-driver crashes in 64-bit hosts.
+            - listitem [ref=f5e347]:
+              - generic [ref=f5e349]: Built Claude-powered check extraction with the model, prompt and token limit configurable at runtime.
+            - listitem [ref=f5e350]:
+              - generic [ref=f5e352]: Shipped a one-file NSIS installer that bundles a self-contained .NET API inside Electron, with versions kept in sync.
+          - generic [ref=f5e353]:
+            - text: Frontend
+            - generic [ref=f5e354]:
+              - generic [ref=f5e355]: Electron
+              - generic [ref=f5e356]: HTML / JavaScript
+              - generic [ref=f5e357]: WebSockets
+          - generic [ref=f5e358]:
+            - text: Backend
+            - generic [ref=f5e359]:
+              - generic [ref=f5e360]: ASP.NET Core Minimal API (.NET 10)
+              - generic [ref=f5e361]: Entity Framework Core
+              - generic [ref=f5e362]: SQL Server / Azure SQL
+          - generic [ref=f5e363]:
+            - text: Other
+            - generic [ref=f5e364]:
+              - generic [ref=f5e365]: Anthropic Claude API
+              - generic [ref=f5e366]: Azure Blob Storage
+              - generic [ref=f5e367]: NTwain
+              - generic [ref=f5e368]: electron-builder
+        - article [ref=f5e369]:
+          - generic [ref=f5e370]:
+            - generic [ref=f5e371]: wedding-orchestrator.app
+            - button "Open Wedding Orchestrator — Music Planning Desktop App gallery" [ref=f5e376]:
+              - img "Wedding dashboard" [ref=f5e377]
+              - generic [ref=f5e378]: 7 screenshots
+          - generic [ref=f5e384]:
+            - generic [ref=f5e385]: Desktop app
+            - generic [ref=f5e386]: May 2026 – Oct 2026
+          - heading "Wedding Orchestrator — Music Planning Desktop App" [level=3] [ref=f5e387]
+          - paragraph [ref=f5e388]: Full Stack Developer
+          - paragraph [ref=f5e389]: A desktop app for wedding music coordinators to manage people and family relationships, a categorized song library and per-wedding song assignments, with conflict detection across weddings, a Hebrew calendar and Word/Excel exports.
+          - list [ref=f5e390]:
+            - listitem [ref=f5e391]:
+              - generic [ref=f5e393]: Built a conflict-detection service that finds people shared with other weddings and flags songs that are off-limits.
+            - listitem [ref=f5e394]:
+              - generic [ref=f5e396]: Implemented a family tree and people directory with relationship types, Hebrew calendar dates and a calendar view.
+            - listitem [ref=f5e397]:
+              - generic [ref=f5e399]: Packaged React and a self-contained ASP.NET Core API into one Electron installer that checks LocalDB and runs migrations on startup.
+          - generic [ref=f5e400]:
+            - text: Frontend
+            - generic [ref=f5e401]:
+              - generic [ref=f5e402]: React 19
+              - generic [ref=f5e403]: TypeScript
+              - generic [ref=f5e404]: Vite
+              - generic [ref=f5e405]: Electron
+              - generic [ref=f5e406]: PrimeReact
+              - generic [ref=f5e407]: Tailwind CSS
+              - generic [ref=f5e408]: Redux Toolkit
+              - generic [ref=f5e409]: TanStack Query
+          - generic [ref=f5e410]:
+            - text: Backend
+            - generic [ref=f5e411]:
+              - generic [ref=f5e412]: ASP.NET Core (.NET 8)
+              - generic [ref=f5e413]: Entity Framework Core
+              - generic [ref=f5e414]: SQL Server LocalDB
+          - generic [ref=f5e415]:
+            - text: Other
+            - generic [ref=f5e416]:
+              - generic [ref=f5e417]: ClosedXML
+              - generic [ref=f5e418]: OpenXML
+              - generic [ref=f5e419]: "@hebcal/core"
+              - generic [ref=f5e420]: electron-builder
+        - article [ref=f5e421]:
+          - generic [ref=f5e422]:
+            - generic [ref=f5e423]: donor-ledger.app
+            - button "Open Nonprofit Donor Ledger Portal & QuickBooks Sync gallery" [ref=f5e428]:
+              - img "Donor ledger (RTL)" [ref=f5e429]
+              - generic [ref=f5e430]: 2 screenshots
+          - generic [ref=f5e436]:
+            - generic [ref=f5e437]: Web app + Azure Functions
+            - generic [ref=f5e438]: Jul 2026 – Aug 2026
+          - heading "Nonprofit Donor Ledger Portal & QuickBooks Sync" [level=3] [ref=f5e439]
+          - paragraph [ref=f5e440]: Full Stack Developer
+          - paragraph [ref=f5e441]: "A donor transaction platform for a nonprofit: Azure Functions sync transactions and balances from QuickBooks Online into SQL Server, a portal lets donors review their ledger in USD or ILS, and an admin console sends templated donor emails through Gmail."
+          - list [ref=f5e442]:
+            - listitem [ref=f5e443]:
+              - generic [ref=f5e445]: Added separate Israeli-shekel ledgers and currency-specific payment links across the sync engine, API and portal.
+            - listitem [ref=f5e446]:
+              - generic [ref=f5e448]: Maintained timer-triggered QuickBooks Online syncs for transactions and balances using QuickBooksSharp and OAuth.
+            - listitem [ref=f5e449]:
+              - generic [ref=f5e451]: Extended the Angular admin auto-mailer and React portal with filtering, Excel/PDF export and Gmail-templated emails.
+          - generic [ref=f5e452]:
+            - text: Frontend
+            - generic [ref=f5e453]:
+              - generic [ref=f5e454]: React
+              - generic [ref=f5e455]: PrimeReact
+              - generic [ref=f5e456]: Angular 15
+              - generic [ref=f5e457]: Angular Material
+              - generic [ref=f5e458]: RxJS
+          - generic [ref=f5e459]:
+            - text: Backend
+            - generic [ref=f5e460]:
+              - generic [ref=f5e461]: Azure Functions (.NET 6)
+              - generic [ref=f5e462]: ASP.NET Core (.NET 8)
+              - generic [ref=f5e463]: Entity Framework Core
+              - generic [ref=f5e464]: SQL Server
+          - generic [ref=f5e465]:
+            - text: Other
+            - generic [ref=f5e466]:
+              - generic [ref=f5e467]: QuickBooks Online API
+              - generic [ref=f5e468]: Gmail API / MimeKit
+              - generic [ref=f5e469]: JWT Auth
+              - generic [ref=f5e470]: Swagger
+        - article [ref=f5e471]:
+          - generic [ref=f5e472]: indesign-layout.app
+          - generic [ref=f5e509]:
+            - generic [ref=f5e510]: InDesign plugin
+            - generic [ref=f5e511]: Aug 2026 – Oct 2026
+          - heading "Automated Ad-Layout Plugin for Adobe InDesign" [level=3] [ref=f5e512]
+          - paragraph [ref=f5e513]: Plugin Developer
+          - paragraph [ref=f5e514]: An Adobe InDesign UXP panel for a classifieds and real-estate publication that pulls ads from the publisher's API and lays out entire issue pages automatically, including right-to-left Hebrew content.
+          - list [ref=f5e515]:
+            - listitem [ref=f5e516]:
+              - generic [ref=f5e518]: Built a real-estate layout engine with group banners, section header bars and a 3-column grid that back-fills across page breaks.
+            - listitem [ref=f5e519]:
+              - generic [ref=f5e521]: Built a classified layout engine that fills a 3×7 grid gap-free, trying up to 40 orderings and enforcing ad-adjacency rules.
+            - listitem [ref=f5e522]:
+              - generic [ref=f5e524]: Handled right-to-left binding, Hebrew fonts and reversed-number fixes, each documented in its own design note.
+          - generic [ref=f5e525]:
+            - text: Frontend
+            - generic [ref=f5e526]:
+              - generic [ref=f5e527]: React
+              - generic [ref=f5e528]: Adobe UXP
+              - generic [ref=f5e529]: Webpack
+              - generic [ref=f5e530]: Babel
+          - generic [ref=f5e531]:
+            - text: Other
+            - generic [ref=f5e532]:
+              - generic [ref=f5e533]: InDesign DOM
+              - generic [ref=f5e534]: UXP Developer Tool
+              - generic [ref=f5e535]: REST API integration
+        - article [ref=f5e536]:
+          - list [ref=f5e541]:
+            - listitem [ref=f5e542]:
+              - generic [ref=f5e543]: Caller
+            - listitem [ref=f5e544]:
+              - generic [ref=f5e547]: Caller-ID + team check
+            - listitem [ref=f5e548]:
+              - generic [ref=f5e551]: Keypad prize menu
+            - listitem [ref=f5e552]:
+              - generic [ref=f5e555]: Google Sheets
+          - generic [ref=f5e556]:
+            - generic [ref=f5e557]: Voice / IVR
+            - generic [ref=f5e558]: Aug 2026
+          - heading "Fundraiser Prize-Selection IVR" [level=3] [ref=f5e559]
+          - paragraph [ref=f5e560]: .NET Backend Developer
+          - paragraph [ref=f5e561]: "A phone line for charity fundraisers: callers are verified by caller ID and team number, hear their available balance, pick prizes from the keypad within budget, and their choices are written to Google Sheets."
+          - list [ref=f5e562]:
+            - listitem [ref=f5e563]:
+              - generic [ref=f5e565]: Verified callers against five phone columns per fundraiser plus team number, with phone-number normalization.
+            - listitem [ref=f5e566]:
+              - generic [ref=f5e568]: Built a step-based call flow with single-key prize selection, a running balance, confirm/start-over and reset-or-keep options.
+            - listitem [ref=f5e569]:
+              - generic [ref=f5e571]: Used Google Sheets as the data store and played recorded MP3 prompts and team names through SignalWire.
+          - generic [ref=f5e572]:
+            - text: Backend
+            - generic [ref=f5e573]: ASP.NET Core (.NET 10)
+          - generic [ref=f5e575]:
+            - text: Other
+            - generic [ref=f5e576]:
+              - generic [ref=f5e577]: SignalWire (LaML)
+              - generic [ref=f5e578]: Google Sheets API
+              - generic [ref=f5e579]: ngrok
+        - article [ref=f5e580]:
+          - list [ref=f5e586]:
+            - listitem [ref=f5e587]:
+              - generic [ref=f5e588]: Slack channel
+            - listitem [ref=f5e589]:
+              - generic [ref=f5e592]: Bridge API
+            - listitem [ref=f5e593]:
+              - generic [ref=f5e596]: SignalWire SMS
+            - listitem [ref=f5e597]:
+              - generic [ref=f5e600]: Phone
+          - generic [ref=f5e601]:
+            - generic [ref=f5e602]: Webhook service
+            - generic [ref=f5e603]: Sep 2026 – Oct 2026
+          - heading "Slack ↔ SMS Bridge" [level=3] [ref=f5e604]
+          - paragraph [ref=f5e605]: .NET Backend Developer
+          - paragraph [ref=f5e606]: "A two-way bridge that links a Slack channel to a phone number: Slack messages go out as SMS and inbound texts are posted back into the channel, with right-to-left formatting for Hebrew and Arabic."
+          - list [ref=f5e607]:
+            - listitem [ref=f5e608]:
+              - generic [ref=f5e610]: Verified both Slack and SignalWire webhook signatures, de-duplicated Slack retries by event id and prevented echo loops.
+            - listitem [ref=f5e611]:
+              - generic [ref=f5e613]: Resolved user, channel and group mentions into readable names and sent SMS through an in-memory queue and background worker.
+            - listitem [ref=f5e614]:
+              - generic [ref=f5e616]: Enforced Clean Architecture with architecture tests and covered signatures, endpoints, formatting and SMS limits with xUnit.
+          - generic [ref=f5e617]:
+            - text: Backend
+            - generic [ref=f5e618]: ASP.NET Core (.NET 10)
+          - generic [ref=f5e620]:
+            - text: Other
+            - generic [ref=f5e621]:
+              - generic [ref=f5e622]: Slack Events / Web API
+              - generic [ref=f5e623]: SignalWire Messaging
+              - generic [ref=f5e624]: xUnit
+        - article [ref=f5e625]:
+          - list [ref=f5e631]:
+            - listitem [ref=f5e632]:
+              - generic [ref=f5e633]: Phone call
+            - listitem [ref=f5e634]:
+              - generic [ref=f5e637]: AI voice agent
+            - listitem [ref=f5e638]:
+              - generic [ref=f5e641]: Gmail (read-only)
+          - generic [ref=f5e642]:
+            - generic [ref=f5e643]: Voice AI agent
+            - generic [ref=f5e644]: Oct 2026
+          - heading "AI Phone Agent for Gmail" [level=3] [ref=f5e645]
+          - paragraph [ref=f5e646]: Developer
+          - paragraph [ref=f5e647]: "A personal phone number backed by an AI voice agent that reads your Gmail aloud: list unread mail, search and read messages, with read-only access and layered security."
+          - list [ref=f5e648]:
+            - listitem [ref=f5e649]:
+              - generic [ref=f5e651]: "Layered security: basic auth, webhook signature checks, a deny-by-default caller allowlist, per-call tool tokens and a spoken PIN with lockouts."
+            - listitem [ref=f5e652]:
+              - generic [ref=f5e654]: Defended against prompt injection by treating email content as untrusted and never exposing the PIN to the model.
+            - listitem [ref=f5e655]:
+              - generic [ref=f5e657]: Defined the agent in SWML with SWAIG tools for inbox, search and read, with speech-friendly text cleanup and Vitest tests.
+          - generic [ref=f5e658]:
+            - text: Backend
+            - generic [ref=f5e659]:
+              - generic [ref=f5e660]: Node.js 22
+              - generic [ref=f5e661]: TypeScript
+          - generic [ref=f5e662]:
+            - text: Other
+            - generic [ref=f5e663]:
+              - generic [ref=f5e664]: SignalWire AI Agent SDK
+              - generic [ref=f5e665]: Gmail API
+              - generic [ref=f5e666]: Vitest
+    - generic [ref=f5e667]:
+      - heading "Experience" [level=2] [ref=f5e668]
+      - paragraph [ref=f5e669]: 10+ years across banking, media, and e-commerce
+      - generic [ref=f5e670]:
+        - article [ref=f5e672]:
+          - generic [ref=f5e674]:
+            - heading ".Net Developer (Metrobank) · WeSupport Inc." [level=3] [ref=f5e675]
+            - generic [ref=f5e676]: Feb 2024 – Feb 2026
+          - paragraph [ref=f5e677]: Developing and enhancing internal and external API services for Metrobank, building secure, scalable RESTful APIs using .NET Core for banking transactions, account management, and third-party integrations.
+          - list [ref=f5e678]:
+            - listitem [ref=f5e679]:
+              - generic [ref=f5e681]: Developed new REST APIs using .NET 6 Core with C#, leveraging Dapper and ADO.NET for efficient database operations serving critical banking endpoints.
+            - listitem [ref=f5e682]:
+              - generic [ref=f5e684]: Designed and implemented feature enhancements to address evolving business requirements and improve user experience.
+            - listitem [ref=f5e685]:
+              - generic [ref=f5e687]: Created unit tests using NUnit to support test-driven development and maintain code quality.
+            - listitem [ref=f5e688]:
+              - generic [ref=f5e690]: Collaborated with internal teams and third-party vendors to integrate banking services and ensure seamless interoperability.
+          - generic [ref=f5e691]:
+            - generic [ref=f5e692]: .NET 6 Core
+            - generic [ref=f5e693]: C#
+            - generic [ref=f5e694]: Dapper
+            - generic [ref=f5e695]: ADO.Net
+            - generic [ref=f5e696]: MS SQL Server
+            - generic [ref=f5e697]: NUnit
+            - generic [ref=f5e698]: Postman
+            - generic [ref=f5e699]: Jira
+        - article [ref=f5e700]:
+          - generic [ref=f5e702]:
+            - heading "Analyst Programmer L3 · Loanworks" [level=3] [ref=f5e703]
+            - generic [ref=f5e704]: Feb 2021 – Feb 2024
+          - paragraph [ref=f5e705]: Built and improved enterprise applications, creating new RESTful APIs and enhancing UI environments, integrated with Azure DevOps CI/CD pipelines.
+          - list [ref=f5e706]:
+            - listitem [ref=f5e707]:
+              - generic [ref=f5e709]: Designed and developed new REST APIs using .NET Core with Entity Framework across .NET 6 and .NET 8.
+            - listitem [ref=f5e710]:
+              - generic [ref=f5e712]: Created and enhanced UI components using AngularJS, JavaScript, Bootstrap, and classic ASP.
+            - listitem [ref=f5e713]:
+              - generic [ref=f5e715]: Configured Azure DevOps environments and automated build, test, and deployment pipelines.
+            - listitem [ref=f5e716]:
+              - generic [ref=f5e718]: Managed source code in Azure Git, coordinated CI/CD workflows, and used Jira for task tracking.
+          - generic [ref=f5e719]:
+            - generic [ref=f5e720]: .NET 6/8
+            - generic [ref=f5e721]: Entity Framework
+            - generic [ref=f5e722]: AngularJS
+            - generic [ref=f5e723]: Azure DevOps
+            - generic [ref=f5e724]: Azure Git
+            - generic [ref=f5e725]: TFS
+            - generic [ref=f5e726]: Jira
+            - generic [ref=f5e727]: Confluence
+        - article [ref=f5e728]:
+          - generic [ref=f5e730]:
+            - heading "Application Developer (ABS-CBN) · IBM Business Services, Inc." [level=3] [ref=f5e731]
+            - generic [ref=f5e732]: Jul 2019 – Dec 2020
+          - paragraph [ref=f5e733]: Continuously enhanced and maintained an enterprise media system, delivering incremental improvements via Agile Scrum.
+          - list [ref=f5e734]:
+            - listitem [ref=f5e735]:
+              - generic [ref=f5e737]: Developed and enhanced features on the existing system using C#.NET.
+            - listitem [ref=f5e738]:
+              - generic [ref=f5e740]: Diagnosed, troubleshot, and resolved software defects to maintain reliability and performance.
+            - listitem [ref=f5e741]:
+              - generic [ref=f5e743]: Created and executed unit tests to verify new features and bug fixes.
+          - generic [ref=f5e744]:
+            - generic [ref=f5e745]: C#.NET
+            - generic [ref=f5e746]: MS SQL Server
+            - generic [ref=f5e747]: Postman
+        - article [ref=f5e748]:
+          - generic [ref=f5e750]:
+            - heading "Sr. Application Development Analyst — Team Lead · Accenture PH Manila" [level=3] [ref=f5e751]
+            - generic [ref=f5e752]: Jan 2019 – Jun 2019
+          - paragraph [ref=f5e753]: Led a development team, managing workflows and Agile ceremonies while ensuring high-quality, timely software delivery.
+          - list [ref=f5e754]:
+            - listitem [ref=f5e755]:
+              - generic [ref=f5e757]: Assigned and prioritized ServiceNow and Jira tickets to ensure efficient team workflow.
+            - listitem [ref=f5e758]:
+              - generic [ref=f5e760]: Led bug identification, prioritization, and resolution efforts across the team.
+            - listitem [ref=f5e761]:
+              - generic [ref=f5e763]: Prepared and presented management reports on project status and team performance.
+          - generic [ref=f5e764]:
+            - generic [ref=f5e765]: MS SQL Server
+            - generic [ref=f5e766]: Jira
+            - generic [ref=f5e767]: ServiceNow
+        - article [ref=f5e768]:
+          - generic [ref=f5e770]:
+            - heading ".Net Developer / Mentor · Cognitif Inc." [level=3] [ref=f5e771]
+            - generic [ref=f5e772]: Feb 2018 – Jan 2019
+          - paragraph [ref=f5e773]: Maintained existing ASP.NET applications and built a new e-commerce platform, while mentoring junior developers.
+          - list [ref=f5e774]:
+            - listitem [ref=f5e775]:
+              - generic [ref=f5e777]: Designed and developed a new e-commerce platform using C# .NET Core, Bootstrap, HTML, Ajax, and JavaScript.
+            - listitem [ref=f5e778]:
+              - generic [ref=f5e780]: Conducted teaching and shadowing sessions for junior employees on SQL and C#.NET programming.
+            - listitem [ref=f5e781]:
+              - generic [ref=f5e783]: Followed Scrum frameworks for sprint planning, stand-ups, and reviews.
+          - generic [ref=f5e784]:
+            - generic [ref=f5e785]: C# .NET Core
+            - generic [ref=f5e786]: Bootstrap
+            - generic [ref=f5e787]: JavaScript
+            - generic [ref=f5e788]: Ajax
+            - generic [ref=f5e789]: MS SQL Server
+        - article [ref=f5e790]:
+          - generic [ref=f5e792]:
+            - heading "Software Developer / Technical Mentor · Philsoft Technologies Group Inc." [level=3] [ref=f5e793]
+            - generic [ref=f5e794]: Nov 2014 – Jan 2018
+          - paragraph [ref=f5e795]: Maintained legacy and modern applications, optimized performance, and engaged directly with clients across Accounting, Payroll, and Billing systems.
+          - list [ref=f5e796]:
+            - listitem [ref=f5e797]:
+              - generic [ref=f5e799]: Maintained and improved applications built with VB6, VB.NET, C#.NET, HTML, Bootstrap, JavaScript, and Ajax.
+            - listitem [ref=f5e800]:
+              - generic [ref=f5e802]: Analyzed and optimized software for improved speed and scalability.
+            - listitem [ref=f5e803]:
+              - generic [ref=f5e805]: Mentored junior developers on Accounting, Payroll, and Billing system processes.
+            - listitem [ref=f5e806]:
+              - generic [ref=f5e808]: Attended client meetings onsite to gather requirements and align development with business needs.
+          - generic [ref=f5e809]:
+            - generic [ref=f5e810]: VB6
+            - generic [ref=f5e811]: VB.NET
+            - generic [ref=f5e812]: C#.NET
+            - generic [ref=f5e813]: MS SQL Server
+            - generic [ref=f5e814]: Crystal Reports
+            - generic [ref=f5e815]: SVN
+            - generic [ref=f5e816]: TFS
+    - generic [ref=f5e817]:
+      - heading "Skills" [level=2] [ref=f5e818]
+      - paragraph [ref=f5e819]: Tools and technologies
+      - generic [ref=f5e820]:
+        - generic [ref=f5e821]:
+          - generic [ref=f5e822]:
+            - heading "Languages & Frameworks" [level=3] [ref=f5e823]
+            - generic [ref=f5e824]: "01"
+          - generic [ref=f5e825]:
+            - generic [ref=f5e826]: C#
+            - generic [ref=f5e827]: .NET 6 / 8 Core
+            - generic [ref=f5e828]: ASP.NET
+            - generic [ref=f5e829]: VB.Net
+            - generic [ref=f5e830]: VB6
+            - generic [ref=f5e831]: Entity Framework
+            - generic [ref=f5e832]: Dapper
+            - generic [ref=f5e833]: ADO.Net
+        - generic [ref=f5e834]:
+          - generic [ref=f5e835]:
+            - heading "Frontend" [level=3] [ref=f5e836]
+            - generic [ref=f5e837]: "02"
+          - generic [ref=f5e838]:
+            - generic [ref=f5e839]: React
+            - generic [ref=f5e840]: TypeScript
+            - generic [ref=f5e841]: Tailwind CSS
+            - generic [ref=f5e842]: Electron
+            - generic [ref=f5e843]: Primereact
+            - generic [ref=f5e844]: Redux Toolkit
+            - generic [ref=f5e845]: Vite
+            - generic [ref=f5e846]: AngularJS
+            - generic [ref=f5e847]: JavaScript
+            - generic [ref=f5e848]: Bootstrap
+            - generic [ref=f5e849]: HTML
+            - generic [ref=f5e850]: Ajax
+            - generic [ref=f5e851]: ASP Classic
+        - generic [ref=f5e852]:
+          - generic [ref=f5e853]:
+            - heading "Database & Reporting" [level=3] [ref=f5e854]
+            - generic [ref=f5e855]: "03"
+          - generic [ref=f5e856]:
+            - generic [ref=f5e857]: MS SQL Server
+            - generic [ref=f5e858]: Crystal Reports
+        - generic [ref=f5e859]:
+          - generic [ref=f5e860]:
+            - heading "APIs" [level=3] [ref=f5e861]
+            - generic [ref=f5e862]: "04"
+          - generic [ref=f5e863]:
+            - generic [ref=f5e864]: REST API
+            - generic [ref=f5e865]: SOAP API
+            - generic [ref=f5e866]: QB Online API
+        - generic [ref=f5e867]:
+          - generic [ref=f5e868]:
+            - heading "DevOps & Tools" [level=3] [ref=f5e869]
+            - generic [ref=f5e870]: "05"
+          - generic [ref=f5e871]:
+            - generic [ref=f5e872]: Azure DevOps
+            - generic [ref=f5e873]: Azure Git
+            - generic [ref=f5e874]: TFS
+            - generic [ref=f5e875]: SVN
+            - generic [ref=f5e876]: Git
+            - generic [ref=f5e877]: Postman
+            - generic [ref=f5e878]: Swagger
+        - generic [ref=f5e879]:
+          - generic [ref=f5e880]:
+            - heading "Testing" [level=3] [ref=f5e881]
+            - generic [ref=f5e882]: "06"
+          - generic [ref=f5e883]:
+            - generic [ref=f5e884]: NUnit
+            - generic [ref=f5e885]: xUnit
+            - generic [ref=f5e886]: Vitest
+        - generic [ref=f5e887]:
+          - generic [ref=f5e888]:
+            - heading "Practices & PM" [level=3] [ref=f5e889]
+            - generic [ref=f5e890]: "07"
+          - generic [ref=f5e891]:
+            - generic [ref=f5e892]: Agile Scrum
+            - generic [ref=f5e893]: CI/CD
+            - generic [ref=f5e894]: Jira
+            - generic [ref=f5e895]: Confluence
+            - generic [ref=f5e896]: ServiceNow
+            - generic [ref=f5e897]: Slack
+            - generic [ref=f5e898]: ClickUp
+    - generic [ref=f5e899]:
+      - heading "Credentials" [level=2] [ref=f5e900]
+      - paragraph [ref=f5e901]: Continuous learning
+      - generic [ref=f5e902]:
+        - link [ref=f5e903] [cursor=pointer]:
+          - /url: https://www.udemy.com/certificate/UC-30e7ceec-370e-457f-9353-0d8e06e896db/
+          - heading "RESTful Web API - The Complete Guide (.NET 7 API) Part 1" [level=3] [ref=f5e912]
+          - paragraph [ref=f5e913]: Udemy
+          - paragraph [ref=f5e914]: Bhrugen Patel · 9 total hours
+          - paragraph [ref=f5e915]: Completed Sept. 17, 2023
+        - link [ref=f5e916] [cursor=pointer]:
+          - /url: https://scrimba.com/learn-javascript-c0v;cert2uNjfKA1PefAwDxPM7kNk5zort1o1w2XSBe
+          - heading "Learn JavaScript" [level=3] [ref=f5e925]
+          - paragraph [ref=f5e926]: Scrimba
+          - paragraph [ref=f5e927]: Per Harald Borgen · 9.4 hours · 238 lessons
+          - paragraph [ref=f5e928]: Completed June 15, 2025
+    - generic [ref=f5e929]:
+      - heading "Education" [level=2] [ref=f5e930]
+      - paragraph [ref=f5e931]: Foundations
+      - generic [ref=f5e932]:
+        - generic [ref=f5e933]:
+          - heading "Quezon City Polytechnic University" [level=3] [ref=f5e934]
+          - generic [ref=f5e935]: "2014"
+        - paragraph [ref=f5e936]: Bachelor's in Information Technology, Major in Computer Science
+    - generic [ref=f5e937]:
+      - heading "Let's talk" [level=2] [ref=f5e938]
+      - paragraph [ref=f5e939]: Get in touch
+      - paragraph [ref=f5e940]: Open to new full-time roles, contract work, and interesting freelance projects.
+      - generic [ref=f5e941]:
+        - link "Email alvinvbaclagan@gmail.com" [ref=f5e942] [cursor=pointer]:
+          - /url: mailto:alvinvbaclagan@gmail.com
+          - generic [ref=f5e947]:
+            - generic [ref=f5e948]: Email
+            - generic [ref=f5e949]: alvinvbaclagan@gmail.com
+        - link "Phone (+63) 916 5508 506 WhatsApp / Viber" [ref=f5e950] [cursor=pointer]:
+          - /url: tel:+639165508506
+          - generic [ref=f5e954]:
+            - generic [ref=f5e955]: Phone
+            - generic [ref=f5e956]: (+63) 916 5508 506
+            - generic [ref=f5e957]: WhatsApp / Viber
+        - link "LinkedIn LinkedIn" [ref=f5e958] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/alvinbaclagan/
+          - generic [ref=f5e963]:
+            - generic [ref=f5e964]: LinkedIn
+            - generic [ref=f5e965]: LinkedIn
+        - generic [ref=f5e971]:
+          - generic [ref=f5e972]: Location
+          - generic [ref=f5e973]: Quezon City, Philippines

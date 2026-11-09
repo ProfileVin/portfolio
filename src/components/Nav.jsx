@@ -3,6 +3,7 @@ import { AnimatePresence, motion } from 'framer-motion'
 import { Award, Briefcase, Download, FolderOpen, GraduationCap, Home, Layers, Link, Mail, MessageCircle, Phone } from 'lucide-react'
 import { profile } from '../data/resume'
 import resumePdf from '../assets/resume/Resume - Alvin Baclagan.pdf'
+import avatar from '../assets/img/avatar.png'
 import ThemeToggle from './ThemeToggle'
 import PaletteSwitcher from './PaletteSwitcher'
 
@@ -22,11 +23,6 @@ const socials = [
   { href: `tel:${profile.phone.replace(/[^+\d]/g, '')}`, label: 'Phone', icon: Phone },
 ]
 
-const initials = profile.name
-  .split(' ')
-  .map((part) => part[0])
-  .join('')
-
 function useActiveSection() {
   const [active, setActive] = useState(links[0].id)
   useEffect(() => {
@@ -45,11 +41,11 @@ function useActiveSection() {
 
 function Avatar({ className }) {
   return (
-    <span
-      className={`flex shrink-0 items-center justify-center rounded-full bg-accent font-bold tracking-tight text-accent-fg ${className}`}
-    >
-      {initials}
-    </span>
+    <img
+      src={avatar}
+      alt={profile.name}
+      className={`shrink-0 rounded-full bg-accent object-cover ${className}`}
+    />
   )
 }
 
@@ -98,7 +94,7 @@ export default function Nav() {
               </a>
             ))}
             <ThemeToggle />
-            <PaletteSwitcher />
+            <PaletteSwitcher align="right" />
           </div>
         </div>
 

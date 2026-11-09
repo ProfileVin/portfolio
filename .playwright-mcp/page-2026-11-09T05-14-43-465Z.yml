@@ -1,0 +1,714 @@
+- generic [ref=e3]:
+  - complementary [ref=e4]:
+    - generic [ref=e5]:
+      - img "Alvin Baclagan" [ref=e6]
+      - paragraph [ref=e7]: Alvin Baclagan
+      - paragraph [ref=e8]: "@alvinbaclagan"
+      - generic [ref=e9]:
+        - link "LinkedIn" [ref=e10] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/alvinbaclagan/
+        - link "Email" [ref=e14] [cursor=pointer]:
+          - /url: mailto:alvinvbaclagan@gmail.com
+        - link "Phone" [ref=e18] [cursor=pointer]:
+          - /url: tel:+639165508506
+        - generic [ref=e21]:
+          - button "Toggle theme" [ref=e22]
+          - button "Pull to toggle theme" [ref=e27]
+        - button "Choose color palette" [ref=e29]
+    - navigation [ref=e36]:
+      - list [ref=e37]:
+        - listitem [ref=e38]:
+          - link "Home" [ref=e39] [cursor=pointer]:
+            - /url: "#about"
+        - listitem [ref=e43]:
+          - link "Projects" [ref=e44] [cursor=pointer]:
+            - /url: "#freelance"
+        - listitem [ref=e47]:
+          - link "Experience" [ref=e48] [cursor=pointer]:
+            - /url: "#experience"
+        - listitem [ref=e52]:
+          - link "Skills" [ref=e53] [cursor=pointer]:
+            - /url: "#skills"
+        - listitem [ref=e58]:
+          - link "Credentials" [ref=e59] [cursor=pointer]:
+            - /url: "#certifications"
+        - listitem [ref=e63]:
+          - link "Education" [ref=e64] [cursor=pointer]:
+            - /url: "#education"
+        - listitem [ref=e68]:
+          - link "Contact" [ref=e69] [cursor=pointer]:
+            - /url: "#contact"
+    - generic [ref=e72]:
+      - link "Download CV" [ref=e73] [cursor=pointer]:
+        - /url: /assets/Resume%20-%20Alvin%20Baclagan-C59SJCc2.pdf
+      - paragraph [ref=e77]: © 2026 Alvin Baclagan
+  - main [ref=e79]:
+    - generic [ref=e80]:
+      - generic [ref=e81]:
+        - generic [ref=e82]:
+          - heading "Your idea, shipped right." [level=1] [ref=e83]
+          - link "Get in touch" [ref=e84] [cursor=pointer]:
+            - /url: "#contact"
+        - paragraph [ref=e88]: I help businesses turn ideas into reliable web apps, APIs and desktop tools. 10+ years building software for banking, media and e-commerce, so your project is in experienced hands from first call to launch.
+        - generic [ref=e89]:
+          - generic [ref=e90]:
+            - paragraph [ref=e91]: Daily drivers
+            - paragraph [ref=e92]: Tools I work with
+          - list [ref=e93]:
+            - listitem [ref=e94]: C# / .NET
+            - listitem [ref=e95]: React
+            - listitem [ref=e96]: SQL Server
+            - listitem [ref=e97]: Azure
+            - listitem [ref=e98]: Electron
+            - listitem [ref=e99]: Claude Code
+            - listitem [ref=e100]: Postman
+            - listitem [ref=e101]: Git
+            - listitem [ref=e102]: Visual Studio
+            - listitem [ref=e103]: VS Code
+            - listitem [ref=e104]: Playwright
+            - listitem [ref=e105]: NUnit
+            - listitem [ref=e106]: Swagger
+            - listitem [ref=e107]: Slack
+            - listitem [ref=e108]: ClickUp
+            - listitem [ref=e109]: Tailwind CSS
+            - listitem [ref=e110]: HTML
+            - listitem [ref=e111]: Vite
+            - listitem [ref=e112]: JavaScript
+            - listitem [ref=e113]: TypeScript
+            - listitem [ref=e114]: Node.js
+            - listitem [ref=e115]: GitHub
+            - listitem [ref=e116]: GitLab
+            - listitem [ref=e117]: SharePoint
+            - listitem [ref=e118]: Confluence
+            - listitem [ref=e119]: Jira
+            - listitem [ref=e120]: ngrok
+            - listitem [ref=e121]: SignalWire
+            - listitem [ref=e122]: TanStack Query
+            - listitem [ref=e123]: PrimeReact
+            - listitem [ref=e124]: Gmail API
+            - listitem [ref=e125]: IVR
+            - listitem [ref=e126]: QuickBooks API
+            - listitem [ref=e127]: VB6
+            - listitem [ref=e128]: Crystal Reports
+      - generic [ref=e129]:
+        - link [ref=e130] [cursor=pointer]:
+          - /url: "#freelance"
+          - generic [ref=e131]:
+            - heading "Projects" [level=3] [ref=e136]
+            - paragraph [ref=e140]: Web apps, desktop tools and integrations built for real clients.
+          - img "Project dashboard" [ref=e148]
+        - link [ref=e149] [cursor=pointer]:
+          - /url: "#about"
+          - generic [ref=e150]:
+            - heading "About" [level=3] [ref=e156]
+            - paragraph [ref=e160]: Who I am and how I work.
+            - generic [ref=e162]:
+              - generic [ref=e163]:
+                - term [ref=e164]: 10+
+                - definition [ref=e165]: Years in software
+              - generic [ref=e166]:
+                - term [ref=e167]: "6"
+                - definition [ref=e168]: Companies
+              - generic [ref=e169]:
+                - term [ref=e170]: "3"
+                - definition [ref=e171]: Industries
+        - link [ref=e172] [cursor=pointer]:
+          - /url: "#experience"
+          - generic [ref=e173]:
+            - heading "Experience" [level=3] [ref=e179]
+            - paragraph [ref=e183]: Banking, media and e-commerce.
+            - generic [ref=e185]:
+              - paragraph [ref=e186]: Latest
+              - paragraph [ref=e187]: .Net Developer (Metrobank)
+              - paragraph [ref=e188]: WeSupport Inc. · Feb 2024 – Feb 2026
+        - link [ref=e189] [cursor=pointer]:
+          - /url: "#certifications"
+          - generic [ref=e190]:
+            - heading "Credentials" [level=3] [ref=e196]
+            - paragraph [ref=e200]: Continuous learning, certified.
+            - list [ref=e202]:
+              - listitem [ref=e203]:
+                - paragraph [ref=e204]: RESTful Web API - The Complete Guide (.NET 7 API) Part 1
+                - paragraph [ref=e205]: Udemy
+              - listitem [ref=e206]:
+                - paragraph [ref=e207]: Learn JavaScript
+                - paragraph [ref=e208]: Scrimba
+        - link "Skills What I build with. Languages & Frameworks 01 Frontend 02 Database & Reporting 03 APIs 04 DevOps & Tools 05" [ref=e209] [cursor=pointer]:
+          - /url: "#skills"
+          - generic [ref=e210]:
+            - heading "Skills" [level=3] [ref=e217]
+            - paragraph [ref=e221]: What I build with.
+            - list [ref=e223]:
+              - listitem [ref=e224]:
+                - text: Languages & Frameworks
+                - generic [ref=e225]: "01"
+              - listitem [ref=e226]:
+                - text: Frontend
+                - generic [ref=e227]: "02"
+              - listitem [ref=e228]:
+                - text: Database & Reporting
+                - generic [ref=e229]: "03"
+              - listitem [ref=e230]:
+                - text: APIs
+                - generic [ref=e231]: "04"
+              - listitem [ref=e232]:
+                - text: DevOps & Tools
+                - generic [ref=e233]: "05"
+        - link "Contact Open to full-time roles, contracts and freelance work. alvinvbaclagan@gmail.com (+63) 916 5508 506 Quezon City, Philippines" [ref=e234] [cursor=pointer]:
+          - /url: "#contact"
+          - generic [ref=e235]:
+            - heading "Contact" [level=3] [ref=e240]
+            - paragraph [ref=e244]: Open to full-time roles, contracts and freelance work.
+            - generic [ref=e246]:
+              - generic [ref=e247]: alvinvbaclagan@gmail.com
+              - generic [ref=e252]: (+63) 916 5508 506
+              - generic [ref=e256]: Quezon City, Philippines
+    - generic [ref=e261]:
+      - heading "Freelance Projects" [level=2] [ref=e262]
+      - paragraph [ref=e263]: Freelance · Mar 2026 – Present
+      - paragraph [ref=e264]: Alongside full-time work, I design and build software for independent clients — from web portals and desktop tools to voice and messaging integrations — owning everything from architecture and data modeling to UI and deployment.
+      - generic [ref=e265]:
+        - article [ref=e266]:
+          - generic [ref=e267]:
+            - generic [ref=e268]: construction-pm.app
+            - button "Open Construction Project Management Platform gallery" [ref=e273]:
+              - img "Project dashboard" [ref=e274]
+              - generic [ref=e275]: 6 screenshots
+          - generic [ref=e281]:
+            - generic [ref=e282]: Web app
+            - generic [ref=e283]: Sep 2026 – Oct 2026
+          - heading "Construction Project Management Platform" [level=3] [ref=e284]
+          - paragraph [ref=e285]: Full Stack Developer
+          - paragraph [ref=e286]: A full stack dashboard for construction project managers covering projects, tasks and site activity logs, phase-and-milestone scheduling, budgets, documents and team management, with a guided onboarding wizard for new companies.
+          - list [ref=e287]:
+            - listitem [ref=e288]:
+              - generic [ref=e290]: Built a budget module with numbered purchase orders, change orders and payments, approve/reject and mark-paid workflows, and committed/disbursed/contract-value roll-ups.
+            - listitem [ref=e291]:
+              - generic [ref=e293]: Structured the .NET 10 API with Clean Architecture (Domain, Application, Infrastructure, API), Identity + JWT, FluentValidation, Serilog and a Scalar API reference.
+            - listitem [ref=e294]:
+              - generic [ref=e296]: "Ran an AI-first workflow with Claude Code: feature specs, a bug log and architecture decision records fed into every session."
+          - generic [ref=e297]:
+            - text: Frontend
+            - generic [ref=e298]:
+              - generic [ref=e299]: React 19
+              - generic [ref=e300]: TypeScript
+              - generic [ref=e301]: Vite
+              - generic [ref=e302]: Tailwind CSS
+              - generic [ref=e303]: PrimeReact
+              - generic [ref=e304]: TanStack Query
+              - generic [ref=e305]: Zustand
+              - generic [ref=e306]: React Hook Form
+              - generic [ref=e307]: Zod
+          - generic [ref=e308]:
+            - text: Backend
+            - generic [ref=e309]:
+              - generic [ref=e310]: .NET 10 Web API
+              - generic [ref=e311]: Entity Framework Core
+              - generic [ref=e312]: SQL Server
+              - generic [ref=e313]: ASP.NET Identity
+              - generic [ref=e314]: JWT
+          - generic [ref=e315]:
+            - text: Other
+            - generic [ref=e316]:
+              - generic [ref=e317]: FluentValidation
+              - generic [ref=e318]: Serilog
+              - generic [ref=e319]: Scalar / OpenAPI
+              - generic [ref=e320]: Playwright
+        - article [ref=e321]:
+          - generic [ref=e322]:
+            - generic [ref=e323]: check-scanner.app
+            - button "Open AI Check-Deposit Scanner gallery" [ref=e328]:
+              - img "Batch scan review" [ref=e329]
+              - generic [ref=e330]: 4 screenshots
+          - generic [ref=e336]:
+            - generic [ref=e337]: Desktop app
+            - generic [ref=e338]: Aug 2026 – Sep 2026
+          - heading "AI Check-Deposit Scanner" [level=3] [ref=e339]
+          - paragraph [ref=e340]: Full Stack Developer
+          - paragraph [ref=e341]: A Windows desktop app that batch-scans donation checks from a TWAIN scanner, uses Claude vision to extract the check details (including the bank from its logo), and files each check under a fundraiser with reporting, backed by SQL Server and Azure Blob Storage.
+          - list [ref=e342]:
+            - listitem [ref=e343]:
+              - generic [ref=e345]: Integrated TWAIN batch scanning via NTwain in a dedicated 32-bit process to work around scanner-driver crashes in 64-bit hosts.
+            - listitem [ref=e346]:
+              - generic [ref=e348]: Built Claude-powered check extraction with the model, prompt and token limit configurable at runtime.
+            - listitem [ref=e349]:
+              - generic [ref=e351]: Shipped a one-file NSIS installer that bundles a self-contained .NET API inside Electron, with versions kept in sync.
+          - generic [ref=e352]:
+            - text: Frontend
+            - generic [ref=e353]:
+              - generic [ref=e354]: Electron
+              - generic [ref=e355]: HTML / JavaScript
+              - generic [ref=e356]: WebSockets
+          - generic [ref=e357]:
+            - text: Backend
+            - generic [ref=e358]:
+              - generic [ref=e359]: ASP.NET Core Minimal API (.NET 10)
+              - generic [ref=e360]: Entity Framework Core
+              - generic [ref=e361]: SQL Server / Azure SQL
+          - generic [ref=e362]:
+            - text: Other
+            - generic [ref=e363]:
+              - generic [ref=e364]: Anthropic Claude API
+              - generic [ref=e365]: Azure Blob Storage
+              - generic [ref=e366]: NTwain
+              - generic [ref=e367]: electron-builder
+        - article [ref=e368]:
+          - generic [ref=e369]:
+            - generic [ref=e370]: wedding-orchestrator.app
+            - button "Open Wedding Orchestrator — Music Planning Desktop App gallery" [ref=e375]:
+              - img "Wedding dashboard" [ref=e376]
+              - generic [ref=e377]: 7 screenshots
+          - generic [ref=e383]:
+            - generic [ref=e384]: Desktop app
+            - generic [ref=e385]: May 2026 – Oct 2026
+          - heading "Wedding Orchestrator — Music Planning Desktop App" [level=3] [ref=e386]
+          - paragraph [ref=e387]: Full Stack Developer
+          - paragraph [ref=e388]: A desktop app for wedding music coordinators to manage people and family relationships, a categorized song library and per-wedding song assignments, with conflict detection across weddings, a Hebrew calendar and Word/Excel exports.
+          - list [ref=e389]:
+            - listitem [ref=e390]:
+              - generic [ref=e392]: Built a conflict-detection service that finds people shared with other weddings and flags songs that are off-limits.
+            - listitem [ref=e393]:
+              - generic [ref=e395]: Implemented a family tree and people directory with relationship types, Hebrew calendar dates and a calendar view.
+            - listitem [ref=e396]:
+              - generic [ref=e398]: Packaged React and a self-contained ASP.NET Core API into one Electron installer that checks LocalDB and runs migrations on startup.
+          - generic [ref=e399]:
+            - text: Frontend
+            - generic [ref=e400]:
+              - generic [ref=e401]: React 19
+              - generic [ref=e402]: TypeScript
+              - generic [ref=e403]: Vite
+              - generic [ref=e404]: Electron
+              - generic [ref=e405]: PrimeReact
+              - generic [ref=e406]: Tailwind CSS
+              - generic [ref=e407]: Redux Toolkit
+              - generic [ref=e408]: TanStack Query
+          - generic [ref=e409]:
+            - text: Backend
+            - generic [ref=e410]:
+              - generic [ref=e411]: ASP.NET Core (.NET 8)
+              - generic [ref=e412]: Entity Framework Core
+              - generic [ref=e413]: SQL Server LocalDB
+          - generic [ref=e414]:
+            - text: Other
+            - generic [ref=e415]:
+              - generic [ref=e416]: ClosedXML
+              - generic [ref=e417]: OpenXML
+              - generic [ref=e418]: "@hebcal/core"
+              - generic [ref=e419]: electron-builder
+        - article [ref=e420]:
+          - generic [ref=e421]:
+            - generic [ref=e422]: donor-ledger.app
+            - button "Open Nonprofit Donor Ledger Portal & QuickBooks Sync gallery" [ref=e427]:
+              - img "Donor ledger (RTL)" [ref=e428]
+              - generic [ref=e429]: 2 screenshots
+          - generic [ref=e435]:
+            - generic [ref=e436]: Web app + Azure Functions
+            - generic [ref=e437]: Jul 2026 – Aug 2026
+          - heading "Nonprofit Donor Ledger Portal & QuickBooks Sync" [level=3] [ref=e438]
+          - paragraph [ref=e439]: Full Stack Developer
+          - paragraph [ref=e440]: "A donor transaction platform for a nonprofit: Azure Functions sync transactions and balances from QuickBooks Online into SQL Server, a portal lets donors review their ledger in USD or ILS, and an admin console sends templated donor emails through Gmail."
+          - list [ref=e441]:
+            - listitem [ref=e442]:
+              - generic [ref=e444]: Added separate Israeli-shekel ledgers and currency-specific payment links across the sync engine, API and portal.
+            - listitem [ref=e445]:
+              - generic [ref=e447]: Maintained timer-triggered QuickBooks Online syncs for transactions and balances using QuickBooksSharp and OAuth.
+            - listitem [ref=e448]:
+              - generic [ref=e450]: Extended the Angular admin auto-mailer and React portal with filtering, Excel/PDF export and Gmail-templated emails.
+          - generic [ref=e451]:
+            - text: Frontend
+            - generic [ref=e452]:
+              - generic [ref=e453]: React
+              - generic [ref=e454]: PrimeReact
+              - generic [ref=e455]: Angular 15
+              - generic [ref=e456]: Angular Material
+              - generic [ref=e457]: RxJS
+          - generic [ref=e458]:
+            - text: Backend
+            - generic [ref=e459]:
+              - generic [ref=e460]: Azure Functions (.NET 6)
+              - generic [ref=e461]: ASP.NET Core (.NET 8)
+              - generic [ref=e462]: Entity Framework Core
+              - generic [ref=e463]: SQL Server
+          - generic [ref=e464]:
+            - text: Other
+            - generic [ref=e465]:
+              - generic [ref=e466]: QuickBooks Online API
+              - generic [ref=e467]: Gmail API / MimeKit
+              - generic [ref=e468]: JWT Auth
+              - generic [ref=e469]: Swagger
+        - article [ref=e470]:
+          - generic [ref=e471]: indesign-layout.app
+          - generic [ref=e508]:
+            - generic [ref=e509]: InDesign plugin
+            - generic [ref=e510]: Aug 2026 – Oct 2026
+          - heading "Automated Ad-Layout Plugin for Adobe InDesign" [level=3] [ref=e511]
+          - paragraph [ref=e512]: Plugin Developer
+          - paragraph [ref=e513]: An Adobe InDesign UXP panel for a classifieds and real-estate publication that pulls ads from the publisher's API and lays out entire issue pages automatically, including right-to-left Hebrew content.
+          - list [ref=e514]:
+            - listitem [ref=e515]:
+              - generic [ref=e517]: Built a real-estate layout engine with group banners, section header bars and a 3-column grid that back-fills across page breaks.
+            - listitem [ref=e518]:
+              - generic [ref=e520]: Built a classified layout engine that fills a 3×7 grid gap-free, trying up to 40 orderings and enforcing ad-adjacency rules.
+            - listitem [ref=e521]:
+              - generic [ref=e523]: Handled right-to-left binding, Hebrew fonts and reversed-number fixes, each documented in its own design note.
+          - generic [ref=e524]:
+            - text: Frontend
+            - generic [ref=e525]:
+              - generic [ref=e526]: React
+              - generic [ref=e527]: Adobe UXP
+              - generic [ref=e528]: Webpack
+              - generic [ref=e529]: Babel
+          - generic [ref=e530]:
+            - text: Other
+            - generic [ref=e531]:
+              - generic [ref=e532]: InDesign DOM
+              - generic [ref=e533]: UXP Developer Tool
+              - generic [ref=e534]: REST API integration
+        - article [ref=e535]:
+          - list [ref=e540]:
+            - listitem [ref=e541]:
+              - generic [ref=e542]: Caller
+            - listitem [ref=e543]:
+              - generic [ref=e546]: Caller-ID + team check
+            - listitem [ref=e547]:
+              - generic [ref=e550]: Keypad prize menu
+            - listitem [ref=e551]:
+              - generic [ref=e554]: Google Sheets
+          - generic [ref=e555]:
+            - generic [ref=e556]: Voice / IVR
+            - generic [ref=e557]: Aug 2026
+          - heading "Fundraiser Prize-Selection IVR" [level=3] [ref=e558]
+          - paragraph [ref=e559]: .NET Backend Developer
+          - paragraph [ref=e560]: "A phone line for charity fundraisers: callers are verified by caller ID and team number, hear their available balance, pick prizes from the keypad within budget, and their choices are written to Google Sheets."
+          - list [ref=e561]:
+            - listitem [ref=e562]:
+              - generic [ref=e564]: Verified callers against five phone columns per fundraiser plus team number, with phone-number normalization.
+            - listitem [ref=e565]:
+              - generic [ref=e567]: Built a step-based call flow with single-key prize selection, a running balance, confirm/start-over and reset-or-keep options.
+            - listitem [ref=e568]:
+              - generic [ref=e570]: Used Google Sheets as the data store and played recorded MP3 prompts and team names through SignalWire.
+          - generic [ref=e571]:
+            - text: Backend
+            - generic [ref=e572]: ASP.NET Core (.NET 10)
+          - generic [ref=e574]:
+            - text: Other
+            - generic [ref=e575]:
+              - generic [ref=e576]: SignalWire (LaML)
+              - generic [ref=e577]: Google Sheets API
+              - generic [ref=e578]: ngrok
+        - article [ref=e579]:
+          - list [ref=e585]:
+            - listitem [ref=e586]:
+              - generic [ref=e587]: Slack channel
+            - listitem [ref=e588]:
+              - generic [ref=e591]: Bridge API
+            - listitem [ref=e592]:
+              - generic [ref=e595]: SignalWire SMS
+            - listitem [ref=e596]:
+              - generic [ref=e599]: Phone
+          - generic [ref=e600]:
+            - generic [ref=e601]: Webhook service
+            - generic [ref=e602]: Sep 2026 – Oct 2026
+          - heading "Slack ↔ SMS Bridge" [level=3] [ref=e603]
+          - paragraph [ref=e604]: .NET Backend Developer
+          - paragraph [ref=e605]: "A two-way bridge that links a Slack channel to a phone number: Slack messages go out as SMS and inbound texts are posted back into the channel, with right-to-left formatting for Hebrew and Arabic."
+          - list [ref=e606]:
+            - listitem [ref=e607]:
+              - generic [ref=e609]: Verified both Slack and SignalWire webhook signatures, de-duplicated Slack retries by event id and prevented echo loops.
+            - listitem [ref=e610]:
+              - generic [ref=e612]: Resolved user, channel and group mentions into readable names and sent SMS through an in-memory queue and background worker.
+            - listitem [ref=e613]:
+              - generic [ref=e615]: Enforced Clean Architecture with architecture tests and covered signatures, endpoints, formatting and SMS limits with xUnit.
+          - generic [ref=e616]:
+            - text: Backend
+            - generic [ref=e617]: ASP.NET Core (.NET 10)
+          - generic [ref=e619]:
+            - text: Other
+            - generic [ref=e620]:
+              - generic [ref=e621]: Slack Events / Web API
+              - generic [ref=e622]: SignalWire Messaging
+              - generic [ref=e623]: xUnit
+        - article [ref=e624]:
+          - list [ref=e630]:
+            - listitem [ref=e631]:
+              - generic [ref=e632]: Phone call
+            - listitem [ref=e633]:
+              - generic [ref=e636]: AI voice agent
+            - listitem [ref=e637]:
+              - generic [ref=e640]: Gmail (read-only)
+          - generic [ref=e641]:
+            - generic [ref=e642]: Voice AI agent
+            - generic [ref=e643]: Oct 2026
+          - heading "AI Phone Agent for Gmail" [level=3] [ref=e644]
+          - paragraph [ref=e645]: Developer
+          - paragraph [ref=e646]: "A personal phone number backed by an AI voice agent that reads your Gmail aloud: list unread mail, search and read messages, with read-only access and layered security."
+          - list [ref=e647]:
+            - listitem [ref=e648]:
+              - generic [ref=e650]: "Layered security: basic auth, webhook signature checks, a deny-by-default caller allowlist, per-call tool tokens and a spoken PIN with lockouts."
+            - listitem [ref=e651]:
+              - generic [ref=e653]: Defended against prompt injection by treating email content as untrusted and never exposing the PIN to the model.
+            - listitem [ref=e654]:
+              - generic [ref=e656]: Defined the agent in SWML with SWAIG tools for inbox, search and read, with speech-friendly text cleanup and Vitest tests.
+          - generic [ref=e657]:
+            - text: Backend
+            - generic [ref=e658]:
+              - generic [ref=e659]: Node.js 22
+              - generic [ref=e660]: TypeScript
+          - generic [ref=e661]:
+            - text: Other
+            - generic [ref=e662]:
+              - generic [ref=e663]: SignalWire AI Agent SDK
+              - generic [ref=e664]: Gmail API
+              - generic [ref=e665]: Vitest
+    - generic [ref=e666]:
+      - heading "Experience" [level=2] [ref=e667]
+      - paragraph [ref=e668]: 10+ years across banking, media, and e-commerce
+      - generic [ref=e669]:
+        - article [ref=e671]:
+          - generic [ref=e673]:
+            - heading ".Net Developer (Metrobank) · WeSupport Inc." [level=3] [ref=e674]
+            - generic [ref=e675]: Feb 2024 – Feb 2026
+          - paragraph [ref=e676]: Developing and enhancing internal and external API services for Metrobank, building secure, scalable RESTful APIs using .NET Core for banking transactions, account management, and third-party integrations.
+          - list [ref=e677]:
+            - listitem [ref=e678]:
+              - generic [ref=e680]: Developed new REST APIs using .NET 6 Core with C#, leveraging Dapper and ADO.NET for efficient database operations serving critical banking endpoints.
+            - listitem [ref=e681]:
+              - generic [ref=e683]: Designed and implemented feature enhancements to address evolving business requirements and improve user experience.
+            - listitem [ref=e684]:
+              - generic [ref=e686]: Created unit tests using NUnit to support test-driven development and maintain code quality.
+            - listitem [ref=e687]:
+              - generic [ref=e689]: Collaborated with internal teams and third-party vendors to integrate banking services and ensure seamless interoperability.
+          - generic [ref=e690]:
+            - generic [ref=e691]: .NET 6 Core
+            - generic [ref=e692]: C#
+            - generic [ref=e693]: Dapper
+            - generic [ref=e694]: ADO.Net
+            - generic [ref=e695]: MS SQL Server
+            - generic [ref=e696]: NUnit
+            - generic [ref=e697]: Postman
+            - generic [ref=e698]: Jira
+        - article [ref=e699]:
+          - generic [ref=e701]:
+            - heading "Analyst Programmer L3 · Loanworks" [level=3] [ref=e702]
+            - generic [ref=e703]: Feb 2021 – Feb 2024
+          - paragraph [ref=e704]: Built and improved enterprise applications, creating new RESTful APIs and enhancing UI environments, integrated with Azure DevOps CI/CD pipelines.
+          - list [ref=e705]:
+            - listitem [ref=e706]:
+              - generic [ref=e708]: Designed and developed new REST APIs using .NET Core with Entity Framework across .NET 6 and .NET 8.
+            - listitem [ref=e709]:
+              - generic [ref=e711]: Created and enhanced UI components using AngularJS, JavaScript, Bootstrap, and classic ASP.
+            - listitem [ref=e712]:
+              - generic [ref=e714]: Configured Azure DevOps environments and automated build, test, and deployment pipelines.
+            - listitem [ref=e715]:
+              - generic [ref=e717]: Managed source code in Azure Git, coordinated CI/CD workflows, and used Jira for task tracking.
+          - generic [ref=e718]:
+            - generic [ref=e719]: .NET 6/8
+            - generic [ref=e720]: Entity Framework
+            - generic [ref=e721]: AngularJS
+            - generic [ref=e722]: Azure DevOps
+            - generic [ref=e723]: Azure Git
+            - generic [ref=e724]: TFS
+            - generic [ref=e725]: Jira
+            - generic [ref=e726]: Confluence
+        - article [ref=e727]:
+          - generic [ref=e729]:
+            - heading "Application Developer (ABS-CBN) · IBM Business Services, Inc." [level=3] [ref=e730]
+            - generic [ref=e731]: Jul 2019 – Dec 2020
+          - paragraph [ref=e732]: Continuously enhanced and maintained an enterprise media system, delivering incremental improvements via Agile Scrum.
+          - list [ref=e733]:
+            - listitem [ref=e734]:
+              - generic [ref=e736]: Developed and enhanced features on the existing system using C#.NET.
+            - listitem [ref=e737]:
+              - generic [ref=e739]: Diagnosed, troubleshot, and resolved software defects to maintain reliability and performance.
+            - listitem [ref=e740]:
+              - generic [ref=e742]: Created and executed unit tests to verify new features and bug fixes.
+          - generic [ref=e743]:
+            - generic [ref=e744]: C#.NET
+            - generic [ref=e745]: MS SQL Server
+            - generic [ref=e746]: Postman
+        - article [ref=e747]:
+          - generic [ref=e749]:
+            - heading "Sr. Application Development Analyst — Team Lead · Accenture PH Manila" [level=3] [ref=e750]
+            - generic [ref=e751]: Jan 2019 – Jun 2019
+          - paragraph [ref=e752]: Led a development team, managing workflows and Agile ceremonies while ensuring high-quality, timely software delivery.
+          - list [ref=e753]:
+            - listitem [ref=e754]:
+              - generic [ref=e756]: Assigned and prioritized ServiceNow and Jira tickets to ensure efficient team workflow.
+            - listitem [ref=e757]:
+              - generic [ref=e759]: Led bug identification, prioritization, and resolution efforts across the team.
+            - listitem [ref=e760]:
+              - generic [ref=e762]: Prepared and presented management reports on project status and team performance.
+          - generic [ref=e763]:
+            - generic [ref=e764]: MS SQL Server
+            - generic [ref=e765]: Jira
+            - generic [ref=e766]: ServiceNow
+        - article [ref=e767]:
+          - generic [ref=e769]:
+            - heading ".Net Developer / Mentor · Cognitif Inc." [level=3] [ref=e770]
+            - generic [ref=e771]: Feb 2018 – Jan 2019
+          - paragraph [ref=e772]: Maintained existing ASP.NET applications and built a new e-commerce platform, while mentoring junior developers.
+          - list [ref=e773]:
+            - listitem [ref=e774]:
+              - generic [ref=e776]: Designed and developed a new e-commerce platform using C# .NET Core, Bootstrap, HTML, Ajax, and JavaScript.
+            - listitem [ref=e777]:
+              - generic [ref=e779]: Conducted teaching and shadowing sessions for junior employees on SQL and C#.NET programming.
+            - listitem [ref=e780]:
+              - generic [ref=e782]: Followed Scrum frameworks for sprint planning, stand-ups, and reviews.
+          - generic [ref=e783]:
+            - generic [ref=e784]: C# .NET Core
+            - generic [ref=e785]: Bootstrap
+            - generic [ref=e786]: JavaScript
+            - generic [ref=e787]: Ajax
+            - generic [ref=e788]: MS SQL Server
+        - article [ref=e789]:
+          - generic [ref=e791]:
+            - heading "Software Developer / Technical Mentor · Philsoft Technologies Group Inc." [level=3] [ref=e792]
+            - generic [ref=e793]: Nov 2014 – Jan 2018
+          - paragraph [ref=e794]: Maintained legacy and modern applications, optimized performance, and engaged directly with clients across Accounting, Payroll, and Billing systems.
+          - list [ref=e795]:
+            - listitem [ref=e796]:
+              - generic [ref=e798]: Maintained and improved applications built with VB6, VB.NET, C#.NET, HTML, Bootstrap, JavaScript, and Ajax.
+            - listitem [ref=e799]:
+              - generic [ref=e801]: Analyzed and optimized software for improved speed and scalability.
+            - listitem [ref=e802]:
+              - generic [ref=e804]: Mentored junior developers on Accounting, Payroll, and Billing system processes.
+            - listitem [ref=e805]:
+              - generic [ref=e807]: Attended client meetings onsite to gather requirements and align development with business needs.
+          - generic [ref=e808]:
+            - generic [ref=e809]: VB6
+            - generic [ref=e810]: VB.NET
+            - generic [ref=e811]: C#.NET
+            - generic [ref=e812]: MS SQL Server
+            - generic [ref=e813]: Crystal Reports
+            - generic [ref=e814]: SVN
+            - generic [ref=e815]: TFS
+    - generic [ref=e816]:
+      - heading "Skills" [level=2] [ref=e817]
+      - paragraph [ref=e818]: Tools and technologies
+      - generic [ref=e819]:
+        - generic [ref=e820]:
+          - generic [ref=e821]:
+            - heading "Languages & Frameworks" [level=3] [ref=e822]
+            - generic [ref=e823]: "01"
+          - generic [ref=e824]:
+            - generic [ref=e825]: C#
+            - generic [ref=e826]: .NET 6 / 8 Core
+            - generic [ref=e827]: ASP.NET
+            - generic [ref=e828]: VB.Net
+            - generic [ref=e829]: VB6
+            - generic [ref=e830]: Entity Framework
+            - generic [ref=e831]: Dapper
+            - generic [ref=e832]: ADO.Net
+        - generic [ref=e833]:
+          - generic [ref=e834]:
+            - heading "Frontend" [level=3] [ref=e835]
+            - generic [ref=e836]: "02"
+          - generic [ref=e837]:
+            - generic [ref=e838]: React
+            - generic [ref=e839]: TypeScript
+            - generic [ref=e840]: Tailwind CSS
+            - generic [ref=e841]: Electron
+            - generic [ref=e842]: Primereact
+            - generic [ref=e843]: Redux Toolkit
+            - generic [ref=e844]: Vite
+            - generic [ref=e845]: AngularJS
+            - generic [ref=e846]: JavaScript
+            - generic [ref=e847]: Bootstrap
+            - generic [ref=e848]: HTML
+            - generic [ref=e849]: Ajax
+            - generic [ref=e850]: ASP Classic
+        - generic [ref=e851]:
+          - generic [ref=e852]:
+            - heading "Database & Reporting" [level=3] [ref=e853]
+            - generic [ref=e854]: "03"
+          - generic [ref=e855]:
+            - generic [ref=e856]: MS SQL Server
+            - generic [ref=e857]: Crystal Reports
+        - generic [ref=e858]:
+          - generic [ref=e859]:
+            - heading "APIs" [level=3] [ref=e860]
+            - generic [ref=e861]: "04"
+          - generic [ref=e862]:
+            - generic [ref=e863]: REST API
+            - generic [ref=e864]: SOAP API
+            - generic [ref=e865]: QB Online API
+        - generic [ref=e866]:
+          - generic [ref=e867]:
+            - heading "DevOps & Tools" [level=3] [ref=e868]
+            - generic [ref=e869]: "05"
+          - generic [ref=e870]:
+            - generic [ref=e871]: Azure DevOps
+            - generic [ref=e872]: Azure Git
+            - generic [ref=e873]: TFS
+            - generic [ref=e874]: SVN
+            - generic [ref=e875]: Git
+            - generic [ref=e876]: Postman
+            - generic [ref=e877]: Swagger
+        - generic [ref=e878]:
+          - generic [ref=e879]:
+            - heading "Testing" [level=3] [ref=e880]
+            - generic [ref=e881]: "06"
+          - generic [ref=e882]:
+            - generic [ref=e883]: NUnit
+            - generic [ref=e884]: xUnit
+            - generic [ref=e885]: Vitest
+        - generic [ref=e886]:
+          - generic [ref=e887]:
+            - heading "Practices & PM" [level=3] [ref=e888]
+            - generic [ref=e889]: "07"
+          - generic [ref=e890]:
+            - generic [ref=e891]: Agile Scrum
+            - generic [ref=e892]: CI/CD
+            - generic [ref=e893]: Jira
+            - generic [ref=e894]: Confluence
+            - generic [ref=e895]: ServiceNow
+            - generic [ref=e896]: Slack
+            - generic [ref=e897]: ClickUp
+    - generic [ref=e898]:
+      - heading "Credentials" [level=2] [ref=e899]
+      - paragraph [ref=e900]: Continuous learning
+      - generic [ref=e901]:
+        - link [ref=e902] [cursor=pointer]:
+          - /url: https://www.udemy.com/certificate/UC-30e7ceec-370e-457f-9353-0d8e06e896db/
+          - heading "RESTful Web API - The Complete Guide (.NET 7 API) Part 1" [level=3] [ref=e911]
+          - paragraph [ref=e912]: Udemy
+          - paragraph [ref=e913]: Bhrugen Patel · 9 total hours
+          - paragraph [ref=e914]: Completed Sept. 17, 2023
+        - link [ref=e915] [cursor=pointer]:
+          - /url: https://scrimba.com/learn-javascript-c0v;cert2uNjfKA1PefAwDxPM7kNk5zort1o1w2XSBe
+          - heading "Learn JavaScript" [level=3] [ref=e924]
+          - paragraph [ref=e925]: Scrimba
+          - paragraph [ref=e926]: Per Harald Borgen · 9.4 hours · 238 lessons
+          - paragraph [ref=e927]: Completed June 15, 2025
+    - generic [ref=e928]:
+      - heading "Education" [level=2] [ref=e929]
+      - paragraph [ref=e930]: Foundations
+      - generic [ref=e931]:
+        - generic [ref=e932]:
+          - heading "Quezon City Polytechnic University" [level=3] [ref=e933]
+          - generic [ref=e934]: "2014"
+        - paragraph [ref=e935]: Bachelor's in Information Technology, Major in Computer Science
+    - generic [ref=e936]:
+      - heading "Let's talk" [level=2] [ref=e937]
+      - paragraph [ref=e938]: Get in touch
+      - paragraph [ref=e939]: Open to new full-time roles, contract work, and interesting freelance projects.
+      - generic [ref=e940]:
+        - link "Email alvinvbaclagan@gmail.com" [ref=e941] [cursor=pointer]:
+          - /url: mailto:alvinvbaclagan@gmail.com
+          - generic [ref=e946]:
+            - generic [ref=e947]: Email
+            - generic [ref=e948]: alvinvbaclagan@gmail.com
+        - link "Phone (+63) 916 5508 506 WhatsApp / Viber" [ref=e949] [cursor=pointer]:
+          - /url: tel:+639165508506
+          - generic [ref=e953]:
+            - generic [ref=e954]: Phone
+            - generic [ref=e955]: (+63) 916 5508 506
+            - generic [ref=e956]: WhatsApp / Viber
+        - link "LinkedIn LinkedIn" [ref=e957] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/alvinbaclagan/
+          - generic [ref=e962]:
+            - generic [ref=e963]: LinkedIn
+            - generic [ref=e964]: LinkedIn
+        - generic [ref=e970]:
+          - generic [ref=e971]: Location
+          - generic [ref=e972]: Quezon City, Philippines

@@ -1,6 +1,8 @@
 {
   "name": "portfolio",
   "compatibility_date": "2026-08-02",
+  "workers_dev": true,
+  "routes": [{ "pattern": "alvin-baclagan.com", "custom_domain": true }],
   "assets": {
     "directory": "./dist",
     "not_found_handling": "single-page-application"

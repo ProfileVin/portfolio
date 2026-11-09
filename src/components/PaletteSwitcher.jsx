@@ -60,7 +60,7 @@ export default function PaletteSwitcher({ align = 'left' }) {
             animate={{ opacity: 1, y: 0, scale: 1 }}
             exit={{ opacity: 0, y: -6, scale: 0.96 }}
             transition={{ duration: 0.15 }}
-            className={`absolute top-11 z-50 w-64 rounded-2xl border border-line bg-surface p-2 shadow-xl ${
+            className={`absolute top-11 z-50 w-56 rounded-2xl border border-line bg-surface p-2 shadow-xl ${
               align === 'right' ? 'right-0' : 'left-0'
             }`}
           >
